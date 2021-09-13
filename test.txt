@@ -1,10 +1,5 @@
- Volume in drive C has no label.
- Volume Serial Number is CA09-5814
-
- Directory of C:\Users\HP\Desktop\myproj
-
-13-09-2021  20:23    <DIR>          .
-13-09-2021  20:23    <DIR>          ..
-13-09-2021  20:23                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  37,731,262,464 bytes free
+public class Demo{
+public static void main(String args[]){
+System.out.println("Testing Jenkins===>");
+}
+}
