@@ -1,4 +1,4 @@
-//package sam;
+package sam;
 
 public class JenkinsMain {
 
